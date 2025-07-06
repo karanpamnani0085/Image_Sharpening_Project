@@ -14,6 +14,7 @@ This project implements an efficient image sharpening system using knowledge dis
 This project uses the DIV2K dataset for high-quality image super-resolution and sharpening tasks:
 - Training Data: DIV2K_train_HR.zip
 - Validation Data: DIV2K_valid_HR.zip
+
 Download and extract these datasets, and update the dataset paths in the configuration file accordingly.
 
 ## Installation
